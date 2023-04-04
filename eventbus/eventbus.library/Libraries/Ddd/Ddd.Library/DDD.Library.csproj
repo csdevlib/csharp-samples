@@ -1,0 +1,40 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>DDD.Core</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="System.Reactive" />
+    <None Remove="Interfaces\" />
+    <None Remove="ValueObjects\" />
+    <None Remove="Newtonsoft.Json" />
+    <None Remove="Core\" />
+    <None Remove="Core\Interfaces\" />
+    <None Remove="Helpers\" />
+    <None Remove="Helpers\GuardHelper.ts" />
+    <None Remove="ValueObjects\IdValueObject.ts" />
+    <None Remove="Core\Enums\" />
+    <None Remove="Extensions\" />
+    <None Remove="Interfaces\DomainEvents\" />
+    <None Remove="Interfaces\Repositories\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="System.Reactive" Version="5.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Interfaces\" />
+    <Folder Include="ValueObjects\" />
+    <Folder Include="Core\" />
+    <Folder Include="Core\Interfaces\" />
+    <Folder Include="Helpers\" />
+    <Folder Include="Core\Enums\" />
+    <Folder Include="Extensions\" />
+    <Folder Include="Interfaces\DomainEvents\" />
+    <Folder Include="Interfaces\Repositories\" />
+  </ItemGroup>
+</Project>
