@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="5.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ESStore.Domain\ESStore.Domain.csproj" />
+    <ProjectReference Include="..\ESStore.Infrastructure.Data\ESStore.Infrastructure.Data.csproj" />
+    <ProjectReference Include="..\ESStore.Infrastructure.RabbitEventBus\ESStore.Infrastructure.RabbitEventBus.csproj" />
+  </ItemGroup>
+
+</Project>

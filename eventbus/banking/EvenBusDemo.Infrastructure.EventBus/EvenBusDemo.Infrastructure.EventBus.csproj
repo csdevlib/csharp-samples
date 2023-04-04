@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <Authors>BeyondNet@Code</Authors>
+    <Description>A simple EventBus library for .NET</Description>
+    <Copyright>BeyondNet@Code</Copyright>
+    <PackageProjectUrl>https://github.com/beyondnetPeru/EvenBusDemo.Infrastructure.EventBus</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/beyondnetPeru/EvenBusDemo.Infrastructure.EventBus</RepositoryUrl>
+    <RepositoryType>Git</RepositoryType>
+    <PackageTags>EventBus, RabbitMQ</PackageTags>
+    <Version>1.0.3</Version>
+    <AssemblyName>EvenBusDemo.Infrastructure.EventBus</AssemblyName>
+    <RootNamespace>EvenBusDemo.Infrastructure.EventBus</RootNamespace>
+    <PackageId>EvenBusDemo.Infrastructure.EventBus</PackageId>
+    <Product>EvenBusDemo.Infrastructure.EventBus</Product>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="9.0.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="5.0.2" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="RabbitMQ.Client" Version="6.2.2" />
+  </ItemGroup>
+
+</Project>

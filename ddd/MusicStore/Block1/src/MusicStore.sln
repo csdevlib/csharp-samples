@@ -1,0 +1,74 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E88BFAA7-3D20-4247-BB48-D7F0E7096128}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{ED119F68-6078-4575-B7F4-638257E0C893}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{7875132C-3C66-4006-8205-38197AA29510}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BuildingBlocks", "BuildingBlocks", "{CA0DB25A-F865-444E-807D-7BC82F1DBB7E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{576FE444-CED6-4EBA-ABC2-50F6AF206FC6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MusicStore.Shared", "BuildingBlocks\MusicStore.Shared\MusicStore.Shared.csproj", "{EFAE18E6-0A88-4BAB-A47E-EA2782015220}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Catalog", "Catalog", "{174967AC-9FA1-4640-B7A4-AAA70181771B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MusicStore.Catalog.Api", "Services\Catalog\MusicStore.Catalog.Api\MusicStore.Catalog.Api.csproj", "{B3E77B9D-DABE-450A-88EA-E3E625ADD98B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MusicStore.Catalog.Application", "Services\Catalog\MusicStore.Catalog.Application\MusicStore.Catalog.Application.csproj", "{3620E8BB-7CF0-43ED-A905-55E8D54E47D9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MusicStore.Catalog.Domain", "Services\Catalog\MusicStore.Catalog.Domain\MusicStore.Catalog.Domain.csproj", "{948CD61C-E7E0-464D-8492-287B6A716B22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicStore.Catalog.Infrastructure", "Services\Catalog\MusicStore.Catalog.Infrastructure\MusicStore.Catalog.Infrastructure.csproj", "{55D09EDB-D116-4BBD-B248-2308FD1B02E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFAE18E6-0A88-4BAB-A47E-EA2782015220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFAE18E6-0A88-4BAB-A47E-EA2782015220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFAE18E6-0A88-4BAB-A47E-EA2782015220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFAE18E6-0A88-4BAB-A47E-EA2782015220}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3E77B9D-DABE-450A-88EA-E3E625ADD98B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3E77B9D-DABE-450A-88EA-E3E625ADD98B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3E77B9D-DABE-450A-88EA-E3E625ADD98B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3E77B9D-DABE-450A-88EA-E3E625ADD98B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3620E8BB-7CF0-43ED-A905-55E8D54E47D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3620E8BB-7CF0-43ED-A905-55E8D54E47D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3620E8BB-7CF0-43ED-A905-55E8D54E47D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3620E8BB-7CF0-43ED-A905-55E8D54E47D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{948CD61C-E7E0-464D-8492-287B6A716B22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{948CD61C-E7E0-464D-8492-287B6A716B22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{948CD61C-E7E0-464D-8492-287B6A716B22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{948CD61C-E7E0-464D-8492-287B6A716B22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55D09EDB-D116-4BBD-B248-2308FD1B02E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55D09EDB-D116-4BBD-B248-2308FD1B02E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55D09EDB-D116-4BBD-B248-2308FD1B02E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55D09EDB-D116-4BBD-B248-2308FD1B02E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CA0DB25A-F865-444E-807D-7BC82F1DBB7E} = {ED119F68-6078-4575-B7F4-638257E0C893}
+		{576FE444-CED6-4EBA-ABC2-50F6AF206FC6} = {ED119F68-6078-4575-B7F4-638257E0C893}
+		{EFAE18E6-0A88-4BAB-A47E-EA2782015220} = {CA0DB25A-F865-444E-807D-7BC82F1DBB7E}
+		{174967AC-9FA1-4640-B7A4-AAA70181771B} = {576FE444-CED6-4EBA-ABC2-50F6AF206FC6}
+		{B3E77B9D-DABE-450A-88EA-E3E625ADD98B} = {174967AC-9FA1-4640-B7A4-AAA70181771B}
+		{3620E8BB-7CF0-43ED-A905-55E8D54E47D9} = {174967AC-9FA1-4640-B7A4-AAA70181771B}
+		{948CD61C-E7E0-464D-8492-287B6A716B22} = {174967AC-9FA1-4640-B7A4-AAA70181771B}
+		{55D09EDB-D116-4BBD-B248-2308FD1B02E6} = {174967AC-9FA1-4640-B7A4-AAA70181771B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21FF9321-A951-4A71-85A6-0286807B4762}
+	EndGlobalSection
+EndGlobal

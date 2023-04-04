@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e351f509-ad01-4221-8de2-2dbaa4ef9a65" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="GeneralExtensions.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FunctionalProgramming/GeneralExtensions.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="359">
+              <caret line="31" column="25" lean-forward="false" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+              <folding>
+                <marker date="1518703786039" expanded="true" signature="46:855" ph="{...}" />
+                <marker date="1518703786039" expanded="true" signature="90:853" ph="{...}" />
+                <marker date="1518703786039" expanded="true" signature="159:232" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IDisposable.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FunctionalProgramming/IDisposable.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="379">
+              <caret line="115" column="9" lean-forward="false" selection-start-line="103" selection-start-column="8" selection-end-line="115" selection-end-column="9" />
+              <folding>
+                <marker date="1518699245598" expanded="true" signature="6:239" ph="..." />
+                <marker date="1518699245598" expanded="true" signature="272:3986" ph="{...}" />
+                <marker date="1518699245598" expanded="true" signature="279:342" ph="/* format: 2018-02-08T12:04;10 ... */" />
+                <marker date="1518699245598" expanded="true" signature="370:1813" ph="{...}" />
+                <marker date="1518699245598" expanded="true" signature="496:542" ph="{...}" />
+                <marker date="1518699245598" expanded="true" signature="609:1066" ph="{...}" />
+                <marker date="1518699245598" expanded="true" signature="682:792" ph="/* проверить что если null? Тогда надо расширяшку с проверкой ... */" />
+                <marker date="1518699245598" expanded="true" signature="890:1014" ph="{...}" />
+                <marker date="1518699245598" expanded="true" signature="1134:1628" ph="{...}" />
+                <marker date="1518699245598" expanded="true" signature="1244:1354" ph="/* проверить что если null? Тогда надо расширяшку с проверкой ... */" />
+                <marker date="1518699245598" expanded="true" signature="1452:1576" ph="{...}" />
+                <marker date="1518699245598" expanded="true" signature="1675:1807" ph="{...}" />
+                <marker date="1518699245598" expanded="true" signature="1839:3615" ph="{...}" />
+                <marker date="1518699245598" expanded="true" signature="1883:2136" ph="{...}" />
+                <marker date="1518699245598" expanded="true" signature="1996:2098" ph="{...}" />
+                <marker date="1518699245598" expanded="true" signature="2202:3102" ph="{...}" />
+                <marker date="1518699245598" expanded="true" signature="2315:2417" ph="{...}" />
+                <marker date="1518699245598" expanded="true" signature="2430:2585" ph="/* DataParser parser = GetParser(); ... */" />
+                <marker date="1518699245598" expanded="true" signature="3169:3609" ph="{...}" />
+                <marker date="1518699245598" expanded="true" signature="3282:3384" ph="{...}" />
+                <marker date="1518699245598" expanded="true" signature="3651:3984" ph="{...}" />
+                <marker date="1518699245598" expanded="true" signature="3843:3978" ph="{...}" />
+                <marker date="1518699245598" expanded="true" signature="3900:3968" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TravelInfoViewModel.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FunctionalProgramming/TravelInfoViewModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="66" column="24" lean-forward="false" selection-start-line="66" selection-start-column="24" selection-end-line="66" selection-end-column="24" />
+              <folding>
+                <marker date="1518706521394" expanded="true" signature="6:66" ph="..." />
+                <marker date="1518706521394" expanded="true" signature="99:2512" ph="{...}" />
+                <marker date="1518706521394" expanded="true" signature="129:270" ph="{...}" />
+                <marker date="1518706521394" expanded="true" signature="308:608" ph="{...}" />
+                <marker date="1518706521394" expanded="true" signature="449:595" ph="{...}" />
+                <marker date="1518706521394" expanded="true" signature="640:2510" ph="{...}" />
+                <marker date="1518706521394" expanded="true" signature="737:1580" ph="{...}" />
+                <marker date="1518706521394" expanded="true" signature="924:1059" ph="{...}" />
+                <marker date="1518706521394" expanded="true" signature="1076:1197" ph="{...}" />
+                <marker date="1518706521394" expanded="true" signature="1406:1535" ph="{...}" />
+                <marker date="1518706521394" expanded="true" signature="1681:2376" ph="{...}" />
+                <marker date="1518706521394" expanded="true" signature="2435:2504" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DateTimeExtensions.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FunctionalProgramming/Extending/DateTimeExtensions.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1517826566000" expanded="false" signature="6:115" ph="..." />
+                <marker date="1517826566000" expanded="true" signature="159:478" ph="{...}" />
+                <marker date="1517826566000" expanded="true" signature="165:224" ph="/* low-level system ... */" />
+                <marker date="1517826566000" expanded="true" signature="269:476" ph="{...}" />
+                <marker date="1517826566000" expanded="true" signature="333:470" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringBuilderExtensions.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FunctionalProgramming/StringBuilderExtensions.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="19" column="42" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="19" selection-end-column="42" />
+              <folding>
+                <marker date="1518106723000" expanded="false" signature="6:85" ph="..." />
+                <marker date="1518106723000" expanded="true" signature="118:631" ph="{...}" />
+                <marker date="1518106723000" expanded="true" signature="168:629" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/FunctionalProgramming/StringBuilderExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FunctionalProgramming/Extending/DateTimeExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FunctionalProgramming/IDisposable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FunctionalProgramming/GeneralExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F6E70350-B81B-4B67-A86E-BBC5866A81CE/de/3e2aec47/String.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/FunctionalProgramming/TravelInfoViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/FunctionalProgramming/IDisposable.cs" />
+        <option value="$PROJECT_DIR$/FunctionalProgramming/GeneralExtensions.cs" />
+        <option value="$PROJECT_DIR$/FunctionalProgramming/TravelInfoViewModel.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="628" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="FunctionalProgramming (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="FunctionalProgramming (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="FunctionalProgramming" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="FunctionalProgramming (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="FunctionalProgramming" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Extending" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e351f509-ad01-4221-8de2-2dbaa4ef9a65" name="Default" comment="" />
+      <created>1518681023646</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1518681023646</updated>
+      <workItem from="1518681029141" duration="17867000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="17867000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="628" height="735" extended-state="0" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.50292826" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33386582" sideWeight="0.50653595" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.02124183" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33386582" sideWeight="0.49346405" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F6E70350-B81B-4B67-A86E-BBC5866A81CE/de/3e2aec47/String.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19">
+          <caret line="641" column="22" lean-forward="false" selection-start-line="641" selection-start-column="22" selection-end-line="641" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FunctionalProgramming/IDisposable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="115" column="9" lean-forward="false" selection-start-line="103" selection-start-column="8" selection-end-line="115" selection-end-column="9" />
+          <folding>
+            <marker date="1518699245598" expanded="true" signature="6:239" ph="..." />
+            <marker date="1518699245598" expanded="true" signature="272:3986" ph="{...}" />
+            <marker date="1518699245598" expanded="true" signature="279:342" ph="/* format: 2018-02-08T12:04;10 ... */" />
+            <marker date="1518699245598" expanded="true" signature="370:1813" ph="{...}" />
+            <marker date="1518699245598" expanded="true" signature="496:542" ph="{...}" />
+            <marker date="1518699245598" expanded="true" signature="609:1066" ph="{...}" />
+            <marker date="1518699245598" expanded="true" signature="682:792" ph="/* проверить что если null? Тогда надо расширяшку с проверкой ... */" />
+            <marker date="1518699245598" expanded="true" signature="890:1014" ph="{...}" />
+            <marker date="1518699245598" expanded="true" signature="1134:1628" ph="{...}" />
+            <marker date="1518699245598" expanded="true" signature="1244:1354" ph="/* проверить что если null? Тогда надо расширяшку с проверкой ... */" />
+            <marker date="1518699245598" expanded="true" signature="1452:1576" ph="{...}" />
+            <marker date="1518699245598" expanded="true" signature="1675:1807" ph="{...}" />
+            <marker date="1518699245598" expanded="true" signature="1839:3615" ph="{...}" />
+            <marker date="1518699245598" expanded="true" signature="1883:2136" ph="{...}" />
+            <marker date="1518699245598" expanded="true" signature="1996:2098" ph="{...}" />
+            <marker date="1518699245598" expanded="true" signature="2202:3102" ph="{...}" />
+            <marker date="1518699245598" expanded="true" signature="2315:2417" ph="{...}" />
+            <marker date="1518699245598" expanded="true" signature="2430:2585" ph="/* DataParser parser = GetParser(); ... */" />
+            <marker date="1518699245598" expanded="true" signature="3169:3609" ph="{...}" />
+            <marker date="1518699245598" expanded="true" signature="3282:3384" ph="{...}" />
+            <marker date="1518699245598" expanded="true" signature="3651:3984" ph="{...}" />
+            <marker date="1518699245598" expanded="true" signature="3843:3978" ph="{...}" />
+            <marker date="1518699245598" expanded="true" signature="3900:3968" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FunctionalProgramming/Extending/DateTimeExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1517826566000" expanded="false" signature="6:115" ph="..." />
+            <marker date="1517826566000" expanded="true" signature="159:478" ph="{...}" />
+            <marker date="1517826566000" expanded="true" signature="165:224" ph="/* low-level system ... */" />
+            <marker date="1517826566000" expanded="true" signature="269:476" ph="{...}" />
+            <marker date="1517826566000" expanded="true" signature="333:470" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FunctionalProgramming/GeneralExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="31" column="25" lean-forward="false" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+          <folding>
+            <marker date="1518703786039" expanded="true" signature="46:855" ph="{...}" />
+            <marker date="1518703786039" expanded="true" signature="90:853" ph="{...}" />
+            <marker date="1518703786039" expanded="true" signature="159:232" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FunctionalProgramming/StringBuilderExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" column="42" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="19" selection-end-column="42" />
+          <folding>
+            <marker date="1518106723000" expanded="false" signature="6:85" ph="..." />
+            <marker date="1518106723000" expanded="true" signature="118:631" ph="{...}" />
+            <marker date="1518106723000" expanded="true" signature="168:629" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FunctionalProgramming/TravelInfoViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="66" column="24" lean-forward="false" selection-start-line="66" selection-start-column="24" selection-end-line="66" selection-end-column="24" />
+          <folding>
+            <marker date="1518706521394" expanded="true" signature="6:66" ph="..." />
+            <marker date="1518706521394" expanded="true" signature="99:2512" ph="{...}" />
+            <marker date="1518706521394" expanded="true" signature="129:270" ph="{...}" />
+            <marker date="1518706521394" expanded="true" signature="308:608" ph="{...}" />
+            <marker date="1518706521394" expanded="true" signature="449:595" ph="{...}" />
+            <marker date="1518706521394" expanded="true" signature="640:2510" ph="{...}" />
+            <marker date="1518706521394" expanded="true" signature="737:1580" ph="{...}" />
+            <marker date="1518706521394" expanded="true" signature="924:1059" ph="{...}" />
+            <marker date="1518706521394" expanded="true" signature="1076:1197" ph="{...}" />
+            <marker date="1518706521394" expanded="true" signature="1406:1535" ph="{...}" />
+            <marker date="1518706521394" expanded="true" signature="1681:2376" ph="{...}" />
+            <marker date="1518706521394" expanded="true" signature="2435:2504" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

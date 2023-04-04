@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionalProgramming", "FunctionalProgramming\FunctionalProgramming.csproj", "{BC970BA1-1151-4EBC-965A-129926077D3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{7E899930-B738-4357-969F-C90B196F80CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC970BA1-1151-4EBC-965A-129926077D3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC970BA1-1151-4EBC-965A-129926077D3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC970BA1-1151-4EBC-965A-129926077D3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC970BA1-1151-4EBC-965A-129926077D3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E899930-B738-4357-969F-C90B196F80CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E899930-B738-4357-969F-C90B196F80CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E899930-B738-4357-969F-C90B196F80CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E899930-B738-4357-969F-C90B196F80CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40AB871D-8E8F-445C-893B-19AD138E22EB}
+	EndGlobalSection
+EndGlobal
