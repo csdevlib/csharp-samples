@@ -1,2 +1,0 @@
-before.zip contains an example of the GloboTicket application without using Dapr at all
-after.zip contains the completed GloboTicket application using Dapr, and includes the scripts necessary to install on Kubernetes in Azure
